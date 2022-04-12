@@ -9,44 +9,59 @@ body{
 #header {
 	width:1000px;
 	height:700px;
-	padding:10px;
+	padding:20px;
+}
+
+input[type] {
+	margin:5px;
 }
 
 .div1 {
 	padding:5px 0px 5px 0px;
 	border-top:1px solid #bfbfbf;
-	border-bottom:1px solid #bfbfbf;
 }
-
 
 .label-1 {
 	width:110px;
 	display:inline-block;
-	padding:10px 0px 10px 0px;
-}
-
-#adr-box {
-	background-color:red;
-	display:inline;
-}
-
-#aaaa {
-	background-color:red;
-	display:inline;
-	}
-
-#div-label1 {
-	width:80px;
 	height:60px;
-	display:inline-block;
+	line-height:60px;
 }
 
-textarea {
-	height:200px;
+#profile, button, #tel {
+	font-size:17px;
+}
+
+.div1-adr {
+	display:inline-block;
+	width:400px;
+	margin:15px 0px 0px 0px;
+}
+
+.div1-adr #adr-1 {
+	width:600px;
+}
+
+.label-2 {
+	vertical-align: top;
+	height:90px;
+}
+
+#header textarea {
+	display:inline-block;
 	width:800px;
+	height:120px;
+	margin:15px 0px 15px 0px;
 }
 
 #foot-button {
-	padding:10px 20px;
+	border-top:1px solid #bfbfbf;
+	margin:00px 0px 20px 0px;
+	padding:20px 0px 20px 0px;
 	text-align:center;
+}
+
+#foot-button button {
+	width:100px;
+	height:40px;
 }
