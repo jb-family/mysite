@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+body{
+	margin:0;
+	padding:0;
+}
+
+#header {
+	width:1000px;
+	height:700px;
+	padding:10px;
+}
+
+.div1 {
+	padding:5px 0px 5px 0px;
+	border-top:1px solid #bfbfbf;
+	border-bottom:1px solid #bfbfbf;
+}
+
+
+.label-1 {
+	width:110px;
+	display:inline-block;
+	padding:10px 0px 10px 0px;
+}
+
+#adr-box {
+	background-color:red;
+	display:inline;
+}
+
+#aaaa {
+	background-color:red;
+	display:inline;
+	}
+
+#div-label1 {
+	width:80px;
+	height:60px;
+	display:inline-block;
+}
+
+textarea {
+	height:200px;
+	width:800px;
+}
+
+#foot-button {
+	padding:10px 20px;
+	text-align:center;
+}

@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+#full-contents #img-profile {
+	margin:0px 20px 0px 20px;
+	width:300px;
+	float:left;
+}
+
+#full-contents #greetings {
+	float:left;
+	font-size:18px;
+}
